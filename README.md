@@ -1,5 +1,7 @@
 # 校园帮
 
+[项目网址](https://teamwego.github.io/teamwego/)
+
 ## 项目文档目录
 
 1. About（项目概况）  
